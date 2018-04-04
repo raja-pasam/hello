@@ -5,7 +5,7 @@ public class hello{
 		Scanner input = new Scanner(System.in);
 		System.out.printf("What is your adress? \n");
 		String name = input.nextLine();
-		System.out.printf("Welcome to the ohio columjus, %s\n", name);
+		System.out.printf("Welcome to the ohio columbus, %s\n", name);
 
 	}
 }
